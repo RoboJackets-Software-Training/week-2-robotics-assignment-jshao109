@@ -1,1 +1,2 @@
 # robotics-week2-2020
+[![Run on Repl.it](https://repl.it/badge/github/RoboJackets-Software-Training/week-2-robotics-assignment-jshao109)](https://repl.it/github/RoboJackets-Software-Training/week-2-robotics-assignment-jshao109)
